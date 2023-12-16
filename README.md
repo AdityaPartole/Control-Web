@@ -38,7 +38,7 @@ The motivation behind ControlWeb is to create an open-source tool for studying C
 
 ### Online
 
-- The app is deployed [here](https://adityapartole.github.io/Control-webb/)
+- The app is deployed [here](https://adityapartole.github.io/ControlWeb/)
 
 
 
